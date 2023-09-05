@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Joseph9464
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning .python..
-- 💞️ I’m looking to collaborate on lgrat projects..
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on great projects
+- .
+- 📫 How to reach me not available
 
 <!---
 Joseph9464/Joseph9464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
